@@ -1,0 +1,3 @@
+Python text processing is useful.
+It helps us read files and manipulate data.
+We can clean, count, and summarize text easily.
